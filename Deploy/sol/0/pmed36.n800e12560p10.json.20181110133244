@@ -1,0 +1,15 @@
+{"author":"LiChungen","algorithm":"TabuSearch","thread":"1","cpu":"Intel Celeron N2940 1.83GHz","ram":"4G 1333MHz","language":"C++","compiler":"VS2017","os":"Windows 10","problem":"PCenter","instance":"pmed36.n800e12560p10.json","duration":"6.180000s","obj":0,"email":"","date":""}
+{
+ "centers": [
+  288,
+  305,
+  347,
+  429,
+  489,
+  582,
+  644,
+  699,
+  751,
+  799
+ ]
+}
